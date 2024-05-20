@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on ** IsDB-BISEW's JEE**
 
-- 🌱 I’m currently learning **Advanced Flutter
+- 🌱 Professional Java Developer
 
 - 💬 Ask me about **SpringBoot, Angular, Flutter**
 
