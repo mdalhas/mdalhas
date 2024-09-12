@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ** IsDB-BISEW's JEE**
+- 🔭 I’m currently working on **SEBPO**
 
 - 🌱 Professional Java Developer
 
-- 💬 Ask me about **SpringBoot, Angular, Flutter**
+- 💬 Ask me about **SpringBoot, Angular, Flutter,**
 
 - 📫 How to reach me **mainhasan9@gmail.com**
 
